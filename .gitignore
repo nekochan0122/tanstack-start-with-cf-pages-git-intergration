@@ -1,0 +1,5 @@
+node_modules
+app.config.timestamp_*
+.vinxi
+.wrangler
+dist
